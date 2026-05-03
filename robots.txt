@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ConnectSiteForge.github.io/snippets-tjd2qw/sitemap.xml
